@@ -1,0 +1,13 @@
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.csproj.CoreCompileInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.AssemblyInfoInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.AssemblyInfo.cs
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.exe
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.deps.json
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.runtimeconfig.json
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.runtimeconfig.dev.json
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.dll
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\bin\Debug\netcoreapp3.1\Angkot.pdb
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.dll
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.pdb
+E:\Tugas Perkuliahan\Visual Studi\Angkot\Angkot\obj\Debug\netcoreapp3.1\Angkot.genruntimeconfig.cache
